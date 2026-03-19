@@ -449,12 +449,12 @@ A: 系统具备断点续传能力:
 
 ## 许可证
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+本项目采用 GPL v3.0 许可证 - 详见 [LICENSE](LICENSE) 文件
 
 ## 联系方式
 
-- **项目主页**: https://github.com/iss-artisan/hmi-index
-- **问题反馈**: https://github.com/iss-artisan/hmi-index/issues
+- **项目主页**: https://github.com/tqartisan/hmi-index
+- **问题反馈**: https://github.com/tqartisan/hmi-index/issues
 - **邮件**: support@tqartisan.com
 
 ## 致谢
